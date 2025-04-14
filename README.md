@@ -20,4 +20,9 @@
 
 - [Google Analytics Certification](https://skillshop.credential.net/12097d48-c585-4350-85a4-175ddf542fb1#acc.TF78BVQa)
 
+  ## 💼 Projects
+
+🔗 [https://github.com/Aeliya-Fatima/Projects-/blob/main/Saas%20Group%20Project.pdf)
+
+
 I am a data analyst with a passion for solving business challenges using SQL, Tableau, and Python. I am particularly interested in the Telecommunications and Finance industries, where I can use data-driven insights to drive decision-making and business growth.
