@@ -24,5 +24,7 @@
 
 🔗 [https://github.com/Aeliya-Fatima/Projects-/blob/main/Saas%20Group%20Project.pdf)
 
+📄 [View My Resume](https://github.com/Aeliya-Fatima/Resume-)
+
 
 I am a data analyst with a passion for solving business challenges using SQL, Tableau, and Python. I am particularly interested in the Telecommunications and Finance industries, where I can use data-driven insights to drive decision-making and business growth.
